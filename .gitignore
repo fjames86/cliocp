@@ -1,0 +1,6 @@
+
+## ignore emacs tmp files and fasls
+*.fasl
+*.lisp~
+*.tlog
+
